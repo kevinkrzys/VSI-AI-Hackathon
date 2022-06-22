@@ -35,7 +35,7 @@ Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
 nlgserv==0.2.3
-numpy==1.18.1
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
 pandas==0.25.1
